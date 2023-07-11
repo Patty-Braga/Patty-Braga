@@ -1,10 +1,8 @@
 ## 👋👋 Olá, Mundo! Sou a Patrícia T. Braga.
 
-- 📚 Atualmente estou em transição de carreira, sou arquiteta de formação;
-- 🌱 Estou estudando para ser Back-end, fui selecionada para uma bolsa da Cubos Academy em parceria com a I-food;
-- 📙 No momento aprendendo HTML, CSS, JavaScript, Git e GitHub;
-- ⚡ Sou jogadora de R.P.G. de mesa, atualmente estou em uma campanha em Faêrun como uma Maga da raça Genasi da Água; 
-
+- 🎲 Jogadora de R.P.G. de mesa 🧙🏻‍♀️ e apaixonada por açaí 🥤;
+- 🖥 Fui selecionada para uma bolsa das 1.000 bolsas de estudo Cubos Academy em parceria com a IFood, foram mais de 27.000 pessoas concorrendo;
+-👩🏻‍💻 Meu objetivo professional é atuar como Desenvolvedora Back-end.
 
 <img align="center" alt="HTML" height="150" width="200" src=https://github.com/Patty-Braga/Patty-Braga/assets/135859145/d9f84b86-4107-4d80-910a-459a76eac7bc>
 
