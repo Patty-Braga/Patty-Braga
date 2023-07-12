@@ -18,6 +18,7 @@
 ## 💻 Status GitHub
 
 <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patty-Braga&size_weight=0.5&count_weight=0.5&theme=nightowl">
+
 <img height="250" src="https://github-readme-stats.vercel.app/api?username=Patty-Braga&show_icons=true&theme=nightowl">
 
 ##
