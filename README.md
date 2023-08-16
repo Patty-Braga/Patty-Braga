@@ -1,6 +1,6 @@
-## Desenvolvedor de Software Back-end | Javascript | Node.js | SQL | Git | GitHub
+## 👋👋 Olá, Mundo! Sou a Patrícia T. Braga.
 
-👋👋 Olá, Mundo! Sou a Patrícia T. Braga.
+Desenvolvedor de Software Back-end | Javascript | Node.js | SQL | Git | GitHub
 
 - 🎲 Jogadora de R.P.G. de mesa 🧙🏻‍♀️ e apaixonada por açaí 🥤;
 - 🖥 Fui selecionada para uma bolsa das 1.000 bolsas de estudo Cubos Academy em parceria com a IFood, foram mais de 27.000 pessoas concorrendo;
